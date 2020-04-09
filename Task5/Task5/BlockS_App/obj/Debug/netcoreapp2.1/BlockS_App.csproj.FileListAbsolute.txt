@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\Task5\BlockS_App\bin\Debug\netcoreapp2.1\BlockS_App.deps.json
+C:\Users\Андрей\source\repos\Task5\BlockS_App\bin\Debug\netcoreapp2.1\BlockS_App.runtimeconfig.json
+C:\Users\Андрей\source\repos\Task5\BlockS_App\bin\Debug\netcoreapp2.1\BlockS_App.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\Task5\BlockS_App\bin\Debug\netcoreapp2.1\BlockS_App.dll
+C:\Users\Андрей\source\repos\Task5\BlockS_App\bin\Debug\netcoreapp2.1\BlockS_App.pdb
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.dll
+C:\Users\Андрей\source\repos\Task5\BlockS_App\obj\Debug\netcoreapp2.1\BlockS_App.pdb
